@@ -1,0 +1,20 @@
+{
+  "item": [
+    {
+      "name": "Twin Ring of Fire",
+      "wondrous": true,
+      "tier": "minor",
+      "rarity": "common",
+      "source": "ed_fbc",
+      "entries": ["lorem ipsum fire"]
+    },
+    {
+      "name": "Twin Ring of Ice",
+      "wondrous": true,
+      "tier": "minor",
+      "rarity": "common",
+      "source": "ed_fbc",
+      "entries": ["lorem ipsum ice"]
+    }
+  ]
+}
