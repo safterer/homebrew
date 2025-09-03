@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "ed_fbc",
+        "abbreviation": "FBC",
+        "full": "Forgotten Below Cormyr",
+        "authors": ["ED"]
+      }
+    ]
+  }
+}
